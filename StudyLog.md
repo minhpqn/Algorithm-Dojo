@@ -1,5 +1,15 @@
 # Study log of algorithms
 
+## 2016.10.27
+
+- Read chapter 3 (CLRS), until page 48 (omega notation)
+
+## 2016.10.26
+
+Study objectives:
+
+- Nghe giảng trên coursera, hoàn thành đến phần Merge Sort
+
 ## 2016.10.21
 
 Study objectives: Study on coursera
