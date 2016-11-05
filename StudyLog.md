@@ -4,7 +4,7 @@
 
 - Master method
 
-![alt text](./images/Master_Method.png "Master Method")
+![alt text](https://github.com/minhpqn/Algorithms/blob/master/images/Master_Method.png "Master Method")
 
 ## 2016.10.27
 
