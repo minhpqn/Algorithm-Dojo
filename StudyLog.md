@@ -1,5 +1,11 @@
 # Study log of algorithms
 
+## 2016.11.05
+
+- Master method
+
+![alt text](./images/Master_Method.png "Master Method")
+
 ## 2016.10.27
 
 - Read chapter 3 (CLRS), until page 48 (omega notation)
